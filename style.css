@@ -1,0 +1,39 @@
+body{
+    background-color: #000;
+    margin: 0%;
+    padding: 0%;
+}
+
+#h1{
+    color: #fff;
+
+}
+#p1{
+    color: rgb(13, 97, 13);
+    font-family: monospace;
+}
+.div1{
+    background-color: rgb(31, 28, 28);
+}
+
+#p2{
+    color: rgb(116, 114, 114);
+    font-size: 12px;
+    font-family: monospace;
+}
+#hr1{
+    width: 50%;
+    color: rgb(126, 123, 123);
+}
+#h2{
+    color: #fff;
+}
+h3{
+    color: #fff;
+}
+.foot{
+    position: fixed;
+    background-color: #000;
+    color: #fff;
+    width: 100%0;
+}
